@@ -1,0 +1,38 @@
+a {
+    color:black;
+    text-decoration:none;
+}
+.sideNavElementHeader {
+    padding:0.2em;
+	height:1em;
+	border-bottom:1px black solid;
+}
+.sideNavElementWhole {
+    padding:0.2em;
+    padding-left:1.7em;
+	clear:both;
+	height:1em;
+	border-bottom:1px black solid;
+}
+.sideNavElementLeft {
+	float:left;
+	height:1em;
+}
+.sideNavElementRight {
+	height:1em;
+	float:right;
+}
+.mainNavElement{
+	font:18px verdana;
+	float:left;
+	width:24.9%;
+	height:100%;
+	border:1px solid black;
+	border-left:0px;
+	text-align:center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
